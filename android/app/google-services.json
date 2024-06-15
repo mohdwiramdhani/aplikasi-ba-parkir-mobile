@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370748406251",
+    "project_id": "skripsi-ba-parkir-99",
+    "storage_bucket": "skripsi-ba-parkir-99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370748406251:android:a83e916bb422e86c3441ae",
+        "android_client_info": {
+          "package_name": "com.ramaproject.skripsi_ba_parkir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEe6-IHbDhWBBEKiMOCQkEU2DmsZ4Hwy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
